@@ -1,16 +1,17 @@
 <svg height="48" width="48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <linearGradient id="a" gradientTransform="matrix(1.135715 0 0 1.0478817 -.400274 1003.8263)" gradientUnits="userSpaceOnUse" x1="26.820074" x2="39.601303" y1="35.166718" y2="35.166718">
+  <linearGradient id="a" gradientTransform="matrix(1.135715 0 0 1.0478817 -.400274 1003.8263)" gradientUnits="userSpaceOnUse" x1="32.876442" x2="33.007675" xlink:href="#b" y1="41.995407" y2="29.184996" />
+  <linearGradient id="b" gradientTransform="matrix(1.135715 0 0 1.0478817 -.400274 1003.8263)" gradientUnits="userSpaceOnUse" x1="26.820074" x2="39.601303" y1="35.166718" y2="35.166718">
     <stop offset="0" stop-color="#37c871" />
     <stop offset="1" stop-color="#03f19b" />
   </linearGradient>
-  <linearGradient id="b" gradientTransform="matrix(.35600995 0 0 .3512235 240.525 893.33752)" gradientUnits="userSpaceOnUse" x1="-989.66583" x2="-1003.6364" y1="433.28394" y2="317.35452">
+  <linearGradient id="c" gradientTransform="matrix(.35600995 0 0 .3512235 240.525 893.33752)" gradientUnits="userSpaceOnUse" x1="-989.66583" x2="-1003.6364" y1="433.28394" y2="317.35452">
     <stop offset="0" stop-color="#292926" />
     <stop offset="1" stop-color="#484b4d" />
   </linearGradient>
-  <linearGradient id="c" gradientTransform="matrix(.35549809 0 0 .35079564 81.583509 925.45618)" gradientUnits="userSpaceOnUse" x1="-1092.9117" x2="-1060.2551" xlink:href="#a" y1="203.09911" y2="104.85291" />
+  <linearGradient id="d" gradientTransform="matrix(.35549809 0 0 .35079564 81.583509 925.45618)" gradientUnits="userSpaceOnUse" x1="-1092.9117" x2="-1060.2551" xlink:href="#b" y1="203.09911" y2="104.85291" />
   <g transform="matrix(.91666199 0 0 .91666199 .366915 -920.167254)">
-    <rect fill="url(#c)" height="40.214249" ry=".981484" transform="matrix(.94911544 -.31492838 .30720731 .95164262 0 0)" width="31.911476" x="-309.6644" y="964.93665" />
-    <rect fill="url(#b)" height="43.171936" ry="1.053671" transform="matrix(.99210439 -.12541482 .1378126 .99045832 0 0)" width="35.538715" x="-131.75444" y="1004.4296" />
+    <rect fill="url(#d)" height="40.214249" ry=".981484" transform="matrix(.94911544 -.31492838 .30720731 .95164262 0 0)" width="31.911476" x="-309.6644" y="964.93665" />
+    <rect fill="url(#c)" height="43.171936" ry="1.053671" transform="matrix(.99210439 -.12541482 .1378126 .99045832 0 0)" width="35.538715" x="-131.75444" y="1004.4296" />
     <g fill-rule="evenodd" transform="matrix(.67731436 -.09548014 .10589125 .75116838 -70.494092 256.47316)">
       <g fill="#fff">
         <path d="m-34.260591 1005.781314h2v.999863h-2z" opacity=".8" />
